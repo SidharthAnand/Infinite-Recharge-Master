@@ -1,4 +1,4 @@
-package frc.robot.subsystems.drive;
+package frc.robot.subsystems.Shooter;
 
 import com.team7419.PaddedXbox;
 
@@ -6,6 +6,7 @@ import edu.wpi.first.wpilibj.Encoder;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import com.ctre.phoenix.*;
 import edu.wpi.first.wpilibj2.command.CommandBase;
+import frc.robot.subsystems.drive.DriveBaseSub;
 
 
 /**

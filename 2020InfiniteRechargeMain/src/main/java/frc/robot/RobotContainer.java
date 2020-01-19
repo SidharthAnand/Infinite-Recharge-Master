@@ -3,6 +3,8 @@ package frc.robot;
 import com.team7419.PaddedXbox;
 
 import edu.wpi.first.wpilibj2.command.Command;
+import frc.robot.subsystems.Shooter.EncoderMove;
+import frc.robot.subsystems.Shooter.EncoderPrint;
 import frc.robot.subsystems.dashboard.Dashboard;
 import frc.robot.subsystems.drive.*;
 
